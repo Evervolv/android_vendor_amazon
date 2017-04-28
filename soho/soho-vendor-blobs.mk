@@ -21,13 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/soho/proprietary/vendor/firmware/fw_bcm4330_p2p.bin:system/vendor/firmware/fw_bcm4330_p2p.bin \
     vendor/amazon/soho/proprietary/vendor/firmware/fw_bcm4330.bin:system/vendor/firmware/fw_bcm4330.bin \
     vendor/amazon/soho/proprietary/vendor/firmware/BCM4330B1_SOHO.HCD:system/vendor/firmware/BCM4330B1_SOHO.HCD \
-    vendor/amazon/soho/proprietary/vendor/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/amazon/soho/proprietary/vendor/lib/libsmapi.so:system/vendor/lib/libsmapi.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
     vendor/amazon/soho/proprietary/vendor/lib/libstagefright_soft_ddpdec.so:system/vendor/lib/libstagefright_soft_ddpdec.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libtf_crypto_sst.so:system/vendor/lib/libtf_crypto_sst.so \
-    vendor/amazon/soho/proprietary/vendor/lib/libusc.so:system/vendor/lib/libusc.so \
-
+    vendor/amazon/soho/proprietary/vendor/lib/libtf_crypto_sst.so:system/vendor/lib/libtf_crypto_sst.so
