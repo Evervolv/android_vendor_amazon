@@ -20,13 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/bowser-common/proprietary/bin/emmc_init.sh:/system/bin/emmc_init.sh \
     vendor/amazon/bowser-common/proprietary/bin/temperature_log.sh:/system/bin/temperature_log.sh \
     vendor/amazon/bowser-common/proprietary/bin/thermal_setup.sh:/system/bin/thermal_setup.sh \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_tate_usi.txt:system/etc/wifi/nvram_tate_usi.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_tate_semco.txt:system/etc/wifi/nvram_tate_semco.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_jem_semco.txt:system/etc/wifi/nvram_jem_semco.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_jem_usi.txt:system/etc/wifi/nvram_jem_usi.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_jem-wan_semco.txt:system/etc/wifi/nvram_jem-wan_semco.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/nvram_jem-wan_usi.txt:system/etc/wifi/nvram_jem-wan_usi.txt \
-    vendor/amazon/bowser-common/proprietary/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
     vendor/amazon/bowser-common/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
     vendor/amazon/bowser-common/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
     vendor/amazon/bowser-common/proprietary/lib/soundfx/libdolbysurroundeffect.so:system/lib/soundfx/libdolbysurroundeffect.so
