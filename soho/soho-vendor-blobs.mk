@@ -17,9 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/amazon/soho/proprietary/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
     vendor/amazon/soho/proprietary/vendor/firmware/ducati-m3-core0.xem3:system/vendor/firmware/ducati-m3-core0.xem3 \
-    vendor/amazon/soho/proprietary/vendor/firmware/fw_bcm4330_apsta.bin:system/vendor/firmware/fw_bcm4330_apsta.bin \
-    vendor/amazon/soho/proprietary/vendor/firmware/fw_bcm4330_p2p.bin:system/vendor/firmware/fw_bcm4330_p2p.bin \
-    vendor/amazon/soho/proprietary/vendor/firmware/fw_bcm4330.bin:system/vendor/firmware/fw_bcm4330.bin \
     vendor/amazon/soho/proprietary/vendor/firmware/BCM4330B1_SOHO.HCD:system/vendor/firmware/BCM4330B1_SOHO.HCD \
     vendor/amazon/soho/proprietary/vendor/lib/libsmapi.so:system/vendor/lib/libsmapi.so \
     vendor/amazon/soho/proprietary/vendor/lib/libstagefright_soft_ddpdec.so:system/vendor/lib/libstagefright_soft_ddpdec.so \
